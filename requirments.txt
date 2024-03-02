@@ -1,0 +1,6 @@
+requests
+dns
+urllib
+subprocess
+json
+bs4
